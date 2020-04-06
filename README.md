@@ -1,2 +1,2 @@
-# thecoin
+# The Coin Collector
 A game
