@@ -1,0 +1,2 @@
+# thecoin
+A game
